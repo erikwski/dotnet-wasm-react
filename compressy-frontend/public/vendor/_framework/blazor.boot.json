@@ -1,0 +1,30 @@
+{
+  "mainAssemblyName": "compressy.dll",
+  "resources": {
+    "hash": "sha256-1CP1mlVzrB4uoCt49jl1iek+3Goki/tM26aDfFL/3q8=",
+    "jsModuleNative": {
+      "dotnet.native.js": "sha256-veVsDXMnQlbrmjWI/V/pd/knevf2gx/njJpgmRED5b4="
+    },
+    "jsModuleRuntime": {
+      "dotnet.runtime.js": "sha256-+E96dgYQl8OrHQb4yNZ7QwNr3SZzLSP8lwKRzwSiMsw="
+    },
+    "wasmNative": {
+      "dotnet.native.wasm": "sha256-TOd1gQVhs+qXGvq2ckxsk/nO2hU3RHJCJTUPTp7oly0="
+    },
+    "assembly": {
+      "compressy.wasm": "sha256-I8pBDxafovdtDyhJ9Qlm2LizxsldtmQrEbBc/kwBN0M=",
+      "System.Console.wasm": "sha256-+3Z0iq3GnXBMlj9tKHaXvaAB30g2df8nVbojI+bJDRg=",
+      "System.IO.Compression.wasm": "sha256-v9yvvxRTszJdxYgUYmwnv2s1wzWE0uqbeswuwoCbwEY=",
+      "System.Private.CoreLib.wasm": "sha256-pPLSXYEaob+xkKfYT2DrvqXXeTesbptHSy347LiFj9E=",
+      "System.Runtime.InteropServices.JavaScript.wasm": "sha256-SEBs8+P1s6qnCF7PXOMbnisJtSJWJKBLvukZQMXifRY=",
+      "aot-instances.wasm": "sha256-F5jaGmVc7vzFjqtI3doCGKg/fQ7XiaS/ql2ej46UKTw="
+    },
+    "vfs": {
+      "runtimeconfig.bin": {
+        "supportFiles/0_runtimeconfig.bin": "sha256-DU56kdcIZEB13E6Ke+pvQfIbjOiINOdZDZ/5DKxruFY="
+      }
+    }
+  },
+  "debugLevel": 0,
+  "globalizationMode": "invariant"
+}
